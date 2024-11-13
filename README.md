@@ -2,7 +2,7 @@
 
 ## Project Overview
 This project focuses on analyzing and visualizing the age differences at death between right-handers and left-handers. Through statistical analysis and interactive visualizations, it aims to uncover trends and insights into this unique topic.
- ![image alt]([image_url](https://github.com/rajvirchouhan/Analyze-Death-Age-Difference-of-Right-Handers-with-Left-Handers/blob/957500017d2d1f810a020c2e74532414326e1cd2/lo.webp))
+ ![image alt]([image_url](https://github.com/rajvirchouhan/Analyze-Death-Age-Difference-of-Right-Handers-with-Left-Handers/blob/957500017d2d1f810a020c2e74532414326e1cd2/lo.webp)
 
 ## Features
 - **Data Processing**: Collect, clean, and organize datasets on handedness and age at death.
