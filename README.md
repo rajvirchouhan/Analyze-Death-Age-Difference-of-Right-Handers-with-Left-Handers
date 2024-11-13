@@ -2,6 +2,7 @@
 
 ## Project Overview
 This project focuses on analyzing and visualizing the age differences at death between right-handers and left-handers. Through statistical analysis and interactive visualizations, it aims to uncover trends and insights into this unique topic.
+ ![image alt](image_url)
 
 ## Features
 - **Data Processing**: Collect, clean, and organize datasets on handedness and age at death.
